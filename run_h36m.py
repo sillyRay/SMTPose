@@ -263,7 +263,7 @@ if EVAL and not cfg.TEST.TRIANGULATE:
 
         train_checkpoint[k] = checkpoint_v
 
-    print('EVAL: This model was trained for {} epochs'.format(checkpoint['epoch']))
+
     model.load_state_dict(train_checkpoint)
 
 if True:
