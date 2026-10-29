@@ -1,6 +1,6 @@
 dataurl：
-https://drive.google.com/file/d/1WAsg6ZWSMzA9IcePw9pEI-sy3g8T8opi/view?usp=drive_link
-https://drive.google.com/file/d/1Y784e6gFjUppWhIJVF-sF5Aa9bD5rz1Z/view?usp=drive_link
+https://zenodo.org/records/23757355
+https://pan.baidu.com/s/1cylMUd0KjYj9oupjfD9aig?pwd=ppbk
 
 datastruct：
 checkpoint/submit/best_cpn/model.bin
